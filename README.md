@@ -1,6 +1,14 @@
 # automated-baggage-system
 Airport automated baggage system
 
+Below are the assumptions taken while solving the problem:
+1.Input Section will have same order which are provided in problem statement.
+2.Didn't use logging libararies as libararies allowed for building and testing purpose only.
+3.Only two test cases are added.
+4.System.out.println is used to print the output.
+5.No debug statements has been added.
+6.Only one validation "incorrect source or destination" is added.
+
 Coding problem Airport Baggage - Pathfinding
  
 Denver International Airport has decided to give an automated baggage system another shot. The hardware and tracking systems from the previous attempt are still in place, they just need a system to route the baggage.  The system will route baggage checked, connecting, and terminating in Denver.
